@@ -1,0 +1,6 @@
+public class TestMonster {
+    public static void main(String[] args) {
+        Monster zombie = new Zombie();
+        zombie.attack();
+    }
+}
